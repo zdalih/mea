@@ -49,5 +49,5 @@ sudo npm run build
 And wait for the build process to finish. Then run
 
 ```
-python3.6 manage.py runserver 0.0.0.0:80
+python3.6 manage.py runserver 0.0.0.0:8000
 ```
